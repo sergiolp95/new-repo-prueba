@@ -2,4 +2,4 @@
 
 ## Repositorio de prueba individual.
 
-new-repo-prueba es un repositorio de prueba.
+new-repo-prueba es un repositorio de prueba hecho de forma individual.
